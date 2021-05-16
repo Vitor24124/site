@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(40, 114, 22, 0.863);
+}
+
+p{
+   color: white; 
+   text-align: center;
+}
+
+h1,h3,h2{
+    color: rgb(5, 23, 182);
+    text-align: center;
+}
+
+a:valid{
+    color: white;
+}
+
+a:hover{
+    color: black;
+    font-size: large;
+}
+
+a,a:link{
+    padding: 5px;
+    background-color: rgba(128, 255, 0, 0.753);
+    display: flexbox;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+
+nav{
+    text-align: center;
+}
